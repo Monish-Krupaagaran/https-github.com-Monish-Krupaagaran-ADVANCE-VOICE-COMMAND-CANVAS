@@ -1,0 +1,33 @@
+#p {
+
+    color: black;
+    font-size: 15px;
+    margin-top: 10px;
+}
+
+.btn-info {
+
+   box-shadow: 5px 5px 5px grey;
+   padding-top: 5px;
+   padding-bottom: 5px;
+}
+
+#footer {
+
+    height: 5%;
+    width: 100%;
+    background-color: rgb(161, 161, 161);
+    color: whitesmoke;
+    padding-top: 10px;
+    position: fixed;
+    bottom: 0;
+}
+
+canvas {
+
+    background-color: rgb(148, 148, 148);
+    box-shadow: 5px 5px 5px grey;
+    border: 3px solid  white;
+    border-radius: 50px;
+}
+
